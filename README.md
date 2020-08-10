@@ -1,7 +1,7 @@
 # **Proffy**
 
 ## **Sobre**
-Projeto feito na semana Next Level Week feito pela rocketseat.
+Projeto realizado na semana Next Level Week disponibilizado pela rocketseat.
 
 ## 🖥 **Preview**
 
